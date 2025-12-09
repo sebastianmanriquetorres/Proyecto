@@ -1,7 +1,6 @@
 # Proyecto
-Proyecto Final – SENA: Code Craft
+Proyecto Final – SENA
 
-(Cambia el nombre si tu proyecto es diferente)
 
 ## Descripción del Proyecto
 
